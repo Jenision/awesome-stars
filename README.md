@@ -1,6 +1,6 @@
 # ⭐ Awesome Stars
 
-> 个人 GitHub Star 项目分类索引，共收录 **107** 个项目，按 Star 数从高到低排序。
+> 个人 GitHub Star 项目分类索引，共收录 **87** 个项目，按 Star 数从高到低排序。
 
 ## 📑 目录
 
@@ -31,23 +31,11 @@
 - [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) ![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square&label=stars&color=f59e0b)
   > 基于 C/C++ 实现的高性能大语言模型（LLM）本地推理引擎。
 
-- [**ChatGPTNextWeb/NextChat**](https://github.com/ChatGPTNextWeb/NextChat) ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat-square&label=stars&color=f59e0b)
-  > 零配置跨平台 AI 对话助手，支持主流大模型与自建服务，覆盖 Web、iOS、macOS、Android、Linux 与 Windows。
-
-- [**bilibili/GPT-SoVITS**](https://github.com/bilibili/GPT-SoVITS) ![Stars](https://img.shields.io/github/stars/bilibili/GPT-SoVITS?style=flat-square&label=stars&color=f59e0b)
-  > 少样本语音克隆与文本转语音（TTS）模型：仅需 1 分钟语音数据即可训练出高质量的 TTS 模型。
-
 - [**CherryHQ/cherry-studio**](https://github.com/CherryHQ/cherry-studio) ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=stars&color=f59e0b)
   > 集成了多模型对话、AI Agent、MCP 工具与 RAG 知识库的桌面端 AI 效率工作台。
 
-- [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) ![Stars](https://img.shields.io/github/stars/QuantumNous/new-api?style=flat-square&label=stars&color=f59e0b)
-  > 开源自托管 AI 网关，提供兼容 OpenAI、Claude 与 Gemini 的 API 接口，支持模型路由、访问控制、用量统计与费用核算。
-
 - [**SillyTavern/SillyTavern**](https://github.com/SillyTavern/SillyTavern) ![Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square&label=stars&color=f59e0b)
   > 面向高级用户的开源大语言模型（LLM）前端交互界面。
-
-- [**Chevey339/kelivo**](https://github.com/Chevey339/kelivo) ![Stars](https://img.shields.io/github/stars/Chevey339/kelivo?style=flat-square&label=stars&color=f59e0b)
-  > 基于 Flutter 开发的跨平台大语言模型聊天客户端，支持移动端与桌面端。
 
 - [**antigravity-cn-community/Antigravity-Chinese-Localization**](https://github.com/antigravity-cn-community/Antigravity-Chinese-Localization) ![Stars](https://img.shields.io/github/stars/antigravity-cn-community/Antigravity-Chinese-Localization?style=flat-square&label=stars&color=f59e0b)
   > Antigravity 一键汉化项目。
@@ -105,9 +93,6 @@
 - [**Abdess/retrobios**](https://github.com/Abdess/retrobios) ![Stars](https://img.shields.io/github/stars/Abdess/retrobios?style=flat-square&label=stars&color=f59e0b)
   > 面向 RetroArch、Batocera、Recalbox、EmuDeck、RetroBat、RetroDECK、Lakka、RetroPie、RomM、ROCKNIX、MiSTer 等模拟器的 BIOS 与固件合集，提供一键安装脚本或 ZIP 压缩包并按正确目录归档校验。
 
-- [**mgba-emu/mgba**](https://github.com/mgba-emu/mgba) ![Stars](https://img.shields.io/github/stars/mgba-emu/mgba?style=flat-square&label=stars&color=f59e0b)
-  > 开源高性能 mGBA Game Boy Advance 模拟器。
-
 - [**THZoria/NX_Firmware**](https://github.com/THZoria/NX_Firmware) ![Stars](https://img.shields.io/github/stars/THZoria/NX_Firmware?style=flat-square&label=stars&color=f59e0b)
   > Nintendo Switch 系统固件文件归档仓库。
 
@@ -123,9 +108,6 @@
 - [**Duimon/Duimon-Mega-Bezel**](https://github.com/Duimon/Duimon-Mega-Bezel) ![Stars](https://img.shields.io/github/stars/Duimon/Duimon-Mega-Bezel?style=flat-square&label=stars&color=f59e0b)
   > 专为 HSM Reflection Shader 打造的 4K 游戏主机边框与背景图形素材。
 
-- [**AlexSanz0902/turnip-sd865-z**](https://github.com/AlexSanz0902/turnip-sd865-z) ![Stars](https://img.shields.io/github/stars/AlexSanz0902/turnip-sd865-z?style=flat-square&label=stars&color=f59e0b)
-  > 基于 Mesa Turnip 修改的 Vulkan 驱动，专注于提升 Adreno GPU（主要针对 A6xx，次要支持 A7xx）上的模拟器性能与稳定性。
-
 ### 游戏工具、串流、私服与 Mod
 
 - [**ClassicOldSong/Apollo**](https://github.com/ClassicOldSong/Apollo) ![Stars](https://img.shields.io/github/stars/ClassicOldSong/Apollo?style=flat-square&label=stars&color=f59e0b)
@@ -134,23 +116,11 @@
 - [**HMCL-dev/HMCL**](https://github.com/HMCL-dev/HMCL) ![Stars](https://img.shields.io/github/stars/HMCL-dev/HMCL?style=flat-square&label=stars&color=f59e0b)
   > 一款多功能、跨平台且广受欢迎的 Minecraft（我的世界）启动器。
 
-- [**crosire/reshade**](https://github.com/crosire/reshade) ![Stars](https://img.shields.io/github/stars/crosire/reshade?style=flat-square&label=stars&color=f59e0b)
-  > 一款通用的游戏与视频软件画面后处理注入器（支持 D3D9/11/12、OpenGL、Vulkan）。
-
 - [**ClassicOldSong/moonlight-android**](https://github.com/ClassicOldSong/moonlight-android) ![Stars](https://img.shields.io/github/stars/ClassicOldSong/moonlight-android?style=flat-square&label=stars&color=f59e0b)
   > Android 平台的 GameStream / Moonlight 远程游戏串流客户端。
 
 - [**skydevil88/XboxDownload**](https://github.com/skydevil88/XboxDownload) ![Stars](https://img.shields.io/github/stars/skydevil88/XboxDownload?style=flat-square&label=stars&color=f59e0b)
   > Xbox 下载助手：支持 Xbox、Microsoft Store、PlayStation、Nintendo Switch、EA App、战网、Epic Games、Ubisoft Connect、Riot Games 和 Rockstar Games 下载加速，并修复 Steam 商店/社区与 GitHub 访问问题。
-
-- [**ManlyMarco/KK-HF_Patch**](https://github.com/ManlyMarco/KK-HF_Patch) ![Stars](https://img.shields.io/github/stars/ManlyMarco/KK-HF_Patch?style=flat-square&label=stars&color=f59e0b)
-  > 面向《恋活！》（Koikatu! / Koikatsu Party!）的一键自动汉化、去码与更新补丁包。
-
-- [**ahalpha/Snowbreak-AnitAmend**](https://github.com/ahalpha/Snowbreak-AnitAmend) ![Stars](https://img.shields.io/github/stars/ahalpha/Snowbreak-AnitAmend?style=flat-square&label=stars&color=f59e0b)
-  > 《尘白禁区》反和谐模组（Snowbreak: Containment Zone Anti Amend / Censorship Mod）。
-
-- [**fishiatee/awesome-privateserver**](https://github.com/fishiatee/awesome-privateserver) ![Stars](https://img.shields.io/github/stars/fishiatee/awesome-privateserver?style=flat-square&label=stars&color=f59e0b)
-  > 各类游戏的免费开源自定义服务端（私服）实现合集列表。
 
 - [**Fldicoahkiin/SteamCloudFileManager**](https://github.com/Fldicoahkiin/SteamCloudFileManager) ![Stars](https://img.shields.io/github/stars/Fldicoahkiin/SteamCloudFileManager?style=flat-square&label=stars&color=f59e0b)
   > 基于 Rust 开发的跨平台 Steam 云存档 GUI 管理工具，以树状视图展示云端文件，支持下载、上传与删除操作。
@@ -192,12 +162,6 @@
 - [**YACReader/yacreader**](https://github.com/YACReader/yacreader) ![Stars](https://img.shields.io/github/stars/YACReader/yacreader?style=flat-square&label=stars&color=f59e0b)
   > YACReader 桌面端漫画阅读与管理软件的源码仓库。
 
-- [**cyl0/ModernX**](https://github.com/cyl0/ModernX) ![Stars](https://img.shields.io/github/stars/cyl0/ModernX?style=flat-square&label=stars&color=f59e0b)
-  > MPV 播放器的现代风格屏幕控制界面（OSC）替换脚本，在保留默认 OSC 全部功能的同时提供更现代的交互外观。
-
-- [**luyishui/OpenReadest**](https://github.com/luyishui/OpenReadest) ![Stars](https://img.shields.io/github/stars/luyishui/OpenReadest?style=flat-square&label=stars&color=f59e0b)
-  > 基于 Readest 的非官方分支，专注于保留本地阅读功能，同时增加 WebDAV 同步支持，专为私有云或自托管 WebDAV 场景设计。
-
 - [**Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage**](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage) ![Stars](https://img.shields.io/github/stars/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage?style=flat-square&label=stars&color=f59e0b)
   > Studio GreenTea 制作并维护的字幕存储仓库。
 
@@ -210,9 +174,6 @@
 
 - [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy) ![Stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat-square&label=stars&color=f59e0b)
   > 新一代多系统可启动 U 盘制作解决方案（直接拷贝 ISO 镜像文件即可引导启动）。
-
-- [**Wox-launcher/Wox**](https://github.com/Wox-launcher/Wox) ![Stars](https://img.shields.io/github/stars/Wox-launcher/Wox?style=flat-square&label=stars&color=f59e0b)
-  > 一款简洁高效的跨平台快捷启动器。
 
 - [**ScoopInstaller/Scoop**](https://github.com/ScoopInstaller/Scoop) ![Stars](https://img.shields.io/github/stars/ScoopInstaller/Scoop?style=flat-square&label=stars&color=f59e0b)
   > 适用于 Windows 平台的命令行软件安装包管理器。
@@ -229,9 +190,6 @@
 - [**be5invis/Sarasa-Gothic**](https://github.com/be5invis/Sarasa-Gothic) ![Stars](https://img.shields.io/github/stars/be5invis/Sarasa-Gothic?style=flat-square&label=stars&color=f59e0b)
   > 更纱黑体（Sarasa Gothic），兼顾简体中文、繁体中文、日文与韩文等宽排版的开源编程与界面字体。
 
-- [**snowie2000/mactype**](https://github.com/snowie2000/mactype) ![Stars](https://img.shields.io/github/stars/snowie2000/mactype?style=flat-square&label=stars&color=f59e0b)
-  > 改善 Windows 系统字体渲染效果的美化工具。
-
 - [**xupefei/Locale-Emulator**](https://github.com/xupefei/Locale-Emulator) ![Stars](https://img.shields.io/github/stars/xupefei/Locale-Emulator?style=flat-square&label=stars&color=f59e0b) `[Archived]`
   > Windows 经典系统区域与语言模拟工具（常用于转区运行非中文区软件与游戏）。
 
@@ -244,17 +202,11 @@
 - [**rime/weasel**](https://github.com/rime/weasel) ![Stars](https://img.shields.io/github/stars/rime/weasel?style=flat-square&label=stars&color=f59e0b)
   > 【小狼毫】Rime 中州韵输入法 Windows 平台客户端。
 
-- [**Tatsu-syo/noMeiryoUI**](https://github.com/Tatsu-syo/noMeiryoUI) ![Stars](https://img.shields.io/github/stars/Tatsu-syo/noMeiryoUI?style=flat-square&label=stars&color=f59e0b)
-  > 适用于 Windows 8.1 / 10 / 11 的系统默认界面字体修改工具。
-
 - [**Mzying2001/CefFlashBrowser**](https://github.com/Mzying2001/CefFlashBrowser) ![Stars](https://img.shields.io/github/stars/Mzying2001/CefFlashBrowser?style=flat-square&label=stars&color=f59e0b)
   > 内置 Flash 插件支持的专用浏览器。
 
 - [**namazso/OpenHashTab**](https://github.com/namazso/OpenHashTab) ![Stars](https://img.shields.io/github/stars/namazso/OpenHashTab?style=flat-square&label=stars&color=f59e0b)
   > 集成于 Windows 文件属性页的开源文件哈希值计算与校验扩展。
-
-- [**sylikc/jpegview**](https://github.com/sylikc/jpegview) ![Stars](https://img.shields.io/github/stars/sylikc/jpegview?style=flat-square&label=stars&color=f59e0b)
-  > 由 David Kleiner 开发的 JPEGView 分支：极速、高度可配置的极简界面看图与编辑工具，支持 JPEG / BMP / PNG / WEBP / TGA / GIF / TIFF 格式，并提供锐度、色彩平衡、旋转、透视、对比度与局部曝光等实时调节功能。
 
 - [**CHerSun/NoSleep**](https://github.com/CHerSun/NoSleep) ![Stars](https://img.shields.io/github/stars/CHerSun/NoSleep?style=flat-square&label=stars&color=f59e0b)
   > 轻量级 Windows 小工具，用于防止系统自动锁屏或进入休眠。
@@ -311,8 +263,8 @@
 - [**fail2ban/fail2ban**](https://github.com/fail2ban/fail2ban) ![Stars](https://img.shields.io/github/stars/fail2ban/fail2ban?style=flat-square&label=stars&color=f59e0b)
   > 监控系统日志并自动封禁多次认证失败或恶意爆破主机的服务端安全守护进程。
 
-- [**MetaCubeX/subconverter**](https://github.com/MetaCubeX/subconverter) ![Stars](https://img.shields.io/github/stars/MetaCubeX/subconverter?style=flat-square&label=stars&color=f59e0b)
-  > 用于在各种代理订阅格式之间进行互相转换的实用工具。
+- [**asdlokj1qpi233/subconverter**](https://github.com/asdlokj1qpi233/subconverter) ![Stars](https://img.shields.io/github/stars/asdlokj1qpi233/subconverter?style=flat-square&label=stars&color=f59e0b)
+  > 用于在各种代理订阅格式之间进行互相转换的实用工具，支持针对 sing-box 和 Clash Meta（Mihomo）的 anytls、mieru、hy2、hy 与 vless 等协议转换。
 
 ### 下载、文件传输与自托管
 
@@ -321,9 +273,6 @@
 
 - [**dani-garcia/vaultwarden**](https://github.com/dani-garcia/vaultwarden) ![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=stars&color=f59e0b)
   > 使用 Rust 编写的非官方 Bitwarden 兼容密码管理器服务端，前身为 bitwarden_rs。
-
-- [**qbittorrent/qBittorrent**](https://github.com/qbittorrent/qBittorrent) ![Stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent?style=flat-square&label=stars&color=f59e0b)
-  > 开源跨平台的 qBittorrent BitTorrent 下载客户端。
 
 - [**gethomepage/homepage**](https://github.com/gethomepage/homepage) ![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&label=stars&color=f59e0b)
   > 高度可定制的自托管应用仪表盘与服务导航首页，支持 Docker 与各类服务 API 状态集成。
@@ -336,9 +285,6 @@
 
 - [**drakkan/sftpgo**](https://github.com/drakkan/sftpgo) ![Stars](https://img.shields.io/github/stars/drakkan/sftpgo?style=flat-square&label=stars&color=f59e0b)
   > 功能完备且高度可配置的 SFTP、HTTP/S、FTP/S 与 WebDAV 服务器，支持 S3、Google Cloud Storage 和 Azure Blob 等后端存储。
-
-- [**hacdias/webdav**](https://github.com/hacdias/webdav) ![Stars](https://img.shields.io/github/stars/hacdias/webdav?style=flat-square&label=stars&color=f59e0b)
-  > 一款简单、独立运行的轻量级 WebDAV 服务器。
 
 ---
 
@@ -371,12 +317,6 @@
 ---
 
 ## 🛠️ 开发、运维与软件工具
-
-- [**aristocratos/btop**](https://github.com/aristocratos/btop) ![Stars](https://img.shields.io/github/stars/aristocratos/btop?style=flat-square&label=stars&color=f59e0b)
-  > 高颜值终端系统资源监控工具（实时展示 CPU、内存、磁盘、网络与进程状态）。
-
-- [**pyinstaller/pyinstaller**](https://github.com/pyinstaller/pyinstaller) ![Stars](https://img.shields.io/github/stars/pyinstaller/pyinstaller?style=flat-square&label=stars&color=f59e0b)
-  > 将 Python 程序及其依赖环境打包冻结为独立可执行文件的工具。
 
 - [**zam1024t/LocalizedMenu**](https://github.com/zam1024t/LocalizedMenu) ![Stars](https://img.shields.io/github/stars/zam1024t/LocalizedMenu?style=flat-square&label=stars&color=f59e0b)
   > Sublime Text 2/3/4 菜单与界面多语言本地化汉化插件，支持简体中文、繁体中文等十余种语言。
